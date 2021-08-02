@@ -51,4 +51,4 @@ I'm looking for new knowledge, achievements and challenges<br/><br/>
     </a>
  </div>
 
-![Snake animation](https://github.com/bakbas/bakbas/blob/main/github-contribution-snake-animation.svg)
+![Snake animation](https://github.com/bakbas/bakbas/blob/output/github-contribution-snake-animation.svg)
