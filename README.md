@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hi there 👋, I'm Bahtiyar</h1>
-I have around 10 years of experience in developing and designing web-based applications.<br/>
-I'm looking for new knowledge, achievements and challenges<br/><br/>
+I have been developing and designing web-based applications for about 10 years. I mostly work on frontend technologies.
 
 <div>
     <img width="53.9%" src="https://github-readme-stats.vercel.app/api?username=bakbas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Batiyar's stats"/>
