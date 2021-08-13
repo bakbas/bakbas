@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Hi there 👋, I'm Bahtiyar</h1>
 I have been developing and designing web-based applications for about 10 years. I mostly work on frontend technologies.<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bakbas) <br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=bakbas) <br/>
 
 <div>
     <img width="53.9%" src="https://github-readme-stats.vercel.app/api?username=bakbas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Batiyar's stats"/>
